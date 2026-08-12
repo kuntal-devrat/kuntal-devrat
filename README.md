@@ -1,17 +1,31 @@
 <div align="center">
 
-  # Hi there, I'm Kuntal Devrat 👋
-  ### High-Performance Systems Engineer | AI & Numerical Computing Enthusiast
+  <!-- Header Banner with Avatar -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,32,007ec6,38bdf8&height=220&section=header&text=Devrat%20Kuntal&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
+  <br />
+
+  <!-- Avatar Display -->
+  <a href="https://github.com/kuntal-devrat">
+    <img src="https://avatars.githubusercontent.com/u/184121074?v=4" width="130" height="130" style="border-radius: 50%; border: 3px solid #38bdf8;" alt="Devrat Kuntal Avatar" />
+  </a>
+
+  <h2>🎓 B.Tech CSE (AI & ML) | 🧠 Future AI Architect</h2>
+  <p><i>"Currently training models — soon training empires."</i></p>
+
+  <!-- Dynamic Typing Subtitle -->
   <p align="center">
     <a href="https://github.com/kuntal-devrat">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Low-Latency+Systems+in+Rust;Creator+of+precise-numpy;Exploring+AI+Safety+%26+Numerical+Precision;Open+Source+Contributor" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Low-Latency+Systems+in+Rust;Creator+of+precise-numpy;Developer+of+PipeQL+%26+rezon;Exploring+AI%2FML+Architectures+%26+Compilers" alt="Typing SVG" />
     </a>
   </p>
 
-  [![GitHub Followers](https://img.shields.io/github/followers/kuntal-devrat?style=social)](https://github.com/kuntal-devrat)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/)
-  [![X/Twitter](https://img.shields.io/badge/X%2FTwitter-Follow-1DA1F2?style=flat&logo=x)](https://x.com/)
+  <!-- Quick Badges -->
+  <p align="center">
+    <a href="https://github.com/kuntal-devrat"><img src="https://img.shields.io/github/followers/kuntal-devrat?style=social" alt="GitHub Followers"></a>
+    <a href="https://github.com/kuntal-devrat?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-24-blue?style=flat&logo=github" alt="Public Repos"></a>
+    <a href="https://pypi.org/project/precise-numpy/"><img src="https://img.shields.io/pypi/v/precise-numpy.svg?color=007ec6" alt="PyPI Package"></a>
+  </p>
 
 </div>
 
@@ -19,112 +33,115 @@
 
 ## ⚡ About Me
 
-- 🦀 **Primary Focus**: Systems programming in **Rust**, low-latency SIMD acceleration, and PyO3 C-extensions.
-- 🧠 **AI & Precision**: Passionate about numerical stability, interval arithmetic, and verified AI safety (IBP).
-- 🚀 **Performance Optimization**: Dedicated to closing the gap between raw hardware limits and high-level Python APIs.
-- 📬 **Get in Touch**: Open to technical collaborations, open-source discussions, and high-performance computing projects.
+- 🧠 **Specialization**: B.Tech Computer Science Engineering in **Artificial Intelligence & Machine Learning**.
+- 🦀 **Systems Engineering**: Building high-performance libraries, query compilers, and SIMD-accelerated engines in **Rust**.
+- 🌐 **Polyglot Developer**: Experience in **Rust**, **Python**, **TypeScript/JavaScript**, **C++**, and **Kotlin**.
+- 🔬 **Numerical Precision**: Author of `precise-numpy` — bringing interval arithmetic and hardware-directed rounding to Python.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Languages & Tech Stack
 
 <div align="center">
 
-### Languages & Core
+### Core Programming Languages
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### Systems & Performance
-![AVX-512](https://img.shields.io/badge/SIMD-AVX512%20%7C%20AVX2%20%7C%20NEON-008080?style=for-the-badge)
-![PyO3](https://img.shields.io/badge/PyO3-Bindings-DEA584?style=for-the-badge&logo=rust&logoColor=white)
-![Rayon](https://img.shields.io/badge/Rayon-Parallel-FF4500?style=for-the-badge)
-![BLAS](https://img.shields.io/badge/BLAS-matrixmultiply-4169E1?style=for-the-badge)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+### Systems, Frameworks & AI
+![SIMD](https://img.shields.io/badge/SIMD-AVX512%20%7C%20AVX2%20%7C%20NEON-008080?style=for-the-badge)
+![PyO3](https://img.shields.io/badge/PyO3-Rust_Bindings-DEA584?style=for-the-badge&logo=rust&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Open-Source Repositories
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">1. ⚡ precise-numpy</h3>
+      <h3 align="center">1. <a href="https://github.com/kuntal-devrat/precise-numpy">⚡ precise-numpy</a></h3>
       <p align="center">
         <a href="https://pypi.org/project/precise-numpy/"><img src="https://img.shields.io/pypi/v/precise-numpy.svg?color=007ec6" alt="PyPI"></a>
         <a href="https://github.com/kuntal-devrat/precise-numpy"><img src="https://img.shields.io/github/stars/kuntal-devrat/precise-numpy?style=social" alt="Stars"></a>
       </p>
       <p>High-performance NumPy-compatible interval arrays with guaranteed numerical error bounds, single-pass streaming SIMD (AVX-512/AVX2/NEON), PyO3 bindings, and multi-threaded BLAS matrix multiplication.</p>
-      <p><b>Tech:</b> <code>Rust</code> <code>PyO3</code> <code>SIMD</code> <code>Rayon</code> <code>Python</code></p>
+      <p><b>Language:</b> <code>Rust</code> / <code>Python</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">2. 🧠 Certified-AI-Auditor</h3>
+      <h3 align="center">2. <a href="https://github.com/kuntal-devrat/PipeQL">🛡️ PipeQL</a></h3>
       <p align="center">
-        <a href="https://github.com/kuntal-devrat/precise-numpy"><img src="https://img.shields.io/badge/AI%20Safety-IBP-green" alt="AI Safety"></a>
+        <a href="https://github.com/kuntal-devrat/PipeQL"><img src="https://img.shields.io/github/stars/kuntal-devrat/PipeQL?style=social" alt="Stars"></a>
       </p>
-      <p>Floating-point drift scanner and Interval Bound Propagation (IBP) verification suite for certifying neural network robustness against adversarial attacks.</p>
-      <p><b>Tech:</b> <code>Python</code> <code>precise-numpy</code> <code>PyTorch</code> <code>Interval Arithmetic</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">3. 🚀 High-Speed GEMM Engine</h3>
-      <p align="center">
-        <a href="https://github.com/kuntal-devrat"><img src="https://img.shields.io/badge/Rust-Systems-orange" alt="Rust"></a>
-      </p>
-      <p>Cache-blocked, multi-threaded matrix multiplication engine in Rust with hardware assembly microkernels for low-latency linear algebra execution.</p>
-      <p><b>Tech:</b> <code>Rust</code> <code>BLAS</code> <code>Assembly</code> <code>Cache Blocking</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">4. 🔒 Hardware-Rounding FPU Suite</h3>
-      <p align="center">
-        <a href="https://github.com/kuntal-devrat"><img src="https://img.shields.io/badge/IEEE-754-blue" alt="IEEE 754"></a>
-      </p>
-      <p>Direct MXCSR / FPCR hardware FPU control wrapper for executing directed rounding modes (round to -inf, round to +inf) on modern x86_64 and ARM64 CPUs.</p>
-      <p><b>Tech:</b> <code>Rust</code> <code>x86_64 Assembly</code> <code>ARM64 NEON</code></p>
+      <p>Pipelined, injection-safe polyglot query language that compiles directly to standard SQL for Postgres, SQLite, DuckDB, and MySQL engines.</p>
+      <p><b>Language:</b> <code>Rust</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">5. 📊 Zero-Copy Tensor Storage</h3>
+      <h3 align="center">3. <a href="https://github.com/kuntal-devrat/rezon">🤖 rezon</a></h3>
       <p align="center">
-        <a href="https://github.com/kuntal-devrat"><img src="https://img.shields.io/badge/Memory-SoA-purple" alt="SoA"></a>
+        <a href="https://github.com/kuntal-devrat/rezon"><img src="https://img.shields.io/npm/v/rezon?color=red" alt="npm"></a>
       </p>
-      <p>Structure-of-Arrays (SoA) memory buffer implementation with 64-byte aligned SIMD memory allocations and O(1) atomic reference counting via Arc.</p>
-      <p><b>Tech:</b> <code>Rust</code> <code>Memory Management</code> <code>SIMD Alignment</code></p>
+      <p>A lightweight npm package which enables running autonomous AI agents directly inside a single static HTML file without complex server setup.</p>
+      <p><b>Language:</b> <code>JavaScript</code> / <code>npm</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">6. 🛠️ PyO3 Maturin CI/CD Template</h3>
+      <h3 align="center">4. <a href="https://github.com/kuntal-devrat/qyro">📦 qyro</a></h3>
       <p align="center">
-        <a href="https://github.com/kuntal-devrat"><img src="https://img.shields.io/badge/GitHub-Actions-2088FF" alt="Actions"></a>
+        <a href="https://github.com/kuntal-devrat/qyro"><img src="https://img.shields.io/badge/Engine-Docker-2496ED" alt="Docker"></a>
       </p>
-      <p>Production-ready GitHub Actions release pipeline template for building cross-platform binary Python wheels (Linux, macOS, Windows) and automated PyPI publishing.</p>
-      <p><b>Tech:</b> <code>GitHub Actions</code> <code>Maturin</code> <code>PyPI</code> <code>CI/CD</code></p>
+      <p>A multi-language polyglot code execution engine leveraging Docker container isolation for safe code execution.</p>
+      <p><b>Language:</b> <code>TypeScript</code> / <code>Docker</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">5. <a href="https://github.com/kuntal-devrat/LinearRegressionModel">📈 LinearRegressionModel</a></h3>
+      <p align="center">
+        <a href="https://github.com/kuntal-devrat/LinearRegressionModel"><img src="https://img.shields.io/badge/ML-From_Scratch-green" alt="ML"></a>
+      </p>
+      <p>Linear Regression ML model implemented from scratch with gradient descent mathematics and served via high-speed FastAPI endpoints.</p>
+      <p><b>Language:</b> <code>Python</code> / <code>TypeScript</code> / <code>FastAPI</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">6. <a href="https://github.com/kuntal-devrat/pivvo">🐍 pivvo</a></h3>
+      <p align="center">
+        <a href="https://github.com/kuntal-devrat/pivvo"><img src="https://img.shields.io/badge/CLI-Tool-orange" alt="CLI"></a>
+      </p>
+      <p>A pragmatic CLI tool to bootstrap Python projects, manage virtual environments, freeze requirements, and handle dependency upgrades.</p>
+      <p><b>Language:</b> <code>Python</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📈 GitHub Analytics & Stats
+## 🏆 GitHub Achievements & Analytics
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=kuntal-devrat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kuntal's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuntal-devrat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <!-- GitHub Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=kuntal-devrat&theme=tokyonight&no-bg=true&no-frame=true&column=6" width="100%" alt="GitHub Trophies" />
 
-  <br/><br/>
+  <br /><br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuntal-devrat&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
+  <!-- Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kuntal-devrat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuntal-devrat&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+
+  <br /><br />
+
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuntal-devrat&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak" />
 
 </div>
 
@@ -132,8 +149,8 @@
 
 <div align="center">
 
-  *“Controlling hardware floating-point modes to guarantee mathematical truth in high-level Python code.”*
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,32,007ec6,38bdf8&height=100&section=footer" width="100%" />
 
-  ⭐️ From [kuntal-devrat](https://github.com/kuntal-devrat)
+  *Built with passion by Devrat Kuntal ([@kuntal-devrat](https://github.com/kuntal-devrat))*
 
 </div>
