@@ -123,20 +123,16 @@
 
 ---
 
-## 📈 GitHub Analytics & Activity Graph
+## 🐍 Contribution Graph & Activity
 
 <div align="center">
 
-  <!-- Activity Contribution Graph Card (Embedded directly, no links/redirection) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuntal-devrat&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%" alt="Contribution Activity Graph" />
-
-  <br /><br />
-
-  <!-- GitHub Profile Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kuntal-devrat&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Overall Stats" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuntal-devrat&layout=compact&theme=dark&hide_border=true" width="49%" alt="Most Used Languages" />
+  <!-- Animated Contribution Grid Snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kuntal-devrat/kuntal-devrat/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kuntal-devrat/kuntal-devrat/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/kuntal-devrat/kuntal-devrat/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 
 </div>
 
