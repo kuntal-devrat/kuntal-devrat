@@ -44,7 +44,7 @@
         <a href="https://github.com/kuntal-devrat/fuzzgpu"><img src="https://img.shields.io/github/stars/kuntal-devrat/fuzzgpu?style=social" alt="Stars" /></a>
       </p>
       <p><b>Hardware-Accelerated Fuzzy String Matching & Sequence Alignment</b></p>
-      <p>Cross-platform GPU compute engine written in Rust with native Python & WASM bindings. Uses <code>wgpu</code> (WGSL) shaders & Rayon SIMD for high-throughput batch queries and distance matrix computations (<b>6.3× faster than RapidFuzz</b>). Zero CUDA dependencies.</p>
+      <p>Cross-platform GPU compute engine written in Rust with native Python & WASM bindings. Powered by <code>wgpu</code> (WGSL) shaders, Rayon SIMD, and full multi-byte Unicode scalar parity (<b>6.3× faster than RapidFuzz</b>). Zero CUDA dependencies.</p>
       <p><code>pip install fuzzgpu</code> &bull; <a href="https://github.com/kuntal-devrat/fuzzgpu"><b>Explore &rarr;</b></a></p>
     </td>
     <td width="50%" valign="top">
