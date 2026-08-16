@@ -1,11 +1,13 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,32,007ec6,8b5cf6,ec4899&height=200&section=header&text=Devrat%20Kuntal&fontSize=46&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=%E2%9A%A1%20AI%20Architect%20%7C%20High-Performance%20Systems%20%26%20GPU%20Compute%20Engineer&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="Devrat Kuntal Banner" />
+  <!-- Header Banner (Self-hosted SVG) -->
+  <img src="https://raw.githubusercontent.com/kuntal-devrat/kuntal-devrat/main/assets/banner.svg" width="100%" alt="Devrat Kuntal Banner" />
+
+  <br /><br />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/kuntal-devrat">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&height=40&lines=Building+high-throughput+GPU+compute+%26+SIMD+libraries;Creator+of+FuzzGPU+(Hardware-Accelerated+WebGPU+Engine);Author+of+PipeQL%2C+py-nerve+(dexflow)+%26+precise-numpy;Engineering+deterministic+AI+agent+execution+layers" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&width=800&height=40&lines=%E2%9A%A1+AI+Architect+%26+High-Performance+Systems+Engineer;Building+high-throughput+GPU+compute+%26+SIMD+libraries;Creator+of+FuzzGPU+(Hardware-Accelerated+WebGPU+Engine);Author+of+PipeQL%2C+py-nerve+(dexflow)+%26+precise-numpy;Engineering+deterministic+AI+agent+execution+layers" alt="Typing SVG" />
   </a>
 
   <br />
@@ -14,7 +16,7 @@
   <p align="center">
     <a href="https://pypi.org/user/kuntal-devrat/"><img src="https://img.shields.io/badge/PyPI-Packages-007ec6?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" /></a>
     <a href="https://www.npmjs.com/~kuntal-devrat"><img src="https://img.shields.io/badge/NPM-Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" /></a>
-    <a href="https://github.com/kuntal-devrat?tab=repositories"><img src="https://img.shields.io/badge/Repositories-20+-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
+    <a href="https://github.com/kuntal-devrat?tab=repositories"><img src="https://img.shields.io/badge/Repositories-25+-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
     <a href="https://github.com/kuntal-devrat"><img src="https://img.shields.io/badge/Status-Building_High--Perf_Systems-06B6D4?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" /></a>
   </p>
 
@@ -149,24 +151,21 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=kuntal-devrat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=94A3B8" alt="Devrat's GitHub Stats" />
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=kuntal-devrat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/kuntal-devrat/kuntal-devrat/main/assets/github-stats.svg" alt="Devrat's GitHub Stats" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/kuntal-devrat/kuntal-devrat/main/assets/top-languages.svg" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
   <h3>✨ Contribution Activity</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kuntal-devrat/kuntal-devrat/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kuntal-devrat/kuntal-devrat/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/kuntal-devrat/kuntal-devrat/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/kuntal-devrat/kuntal-devrat/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,32,007ec6,8b5cf6,ec4899&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <br />
   <sub>Crafted with passion, precision & performance by <b>Devrat Kuntal</b> &bull; <a href="https://github.com/kuntal-devrat">@kuntal-devrat</a></sub>
 </div>
